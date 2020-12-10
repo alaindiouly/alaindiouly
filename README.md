@@ -2,7 +2,7 @@
 
 # Alain Diouly-Osso
 
-Hi I'm Alain - I'll be joining a coding in Berlin, starting Jan'2021, for 3 months.  I'm passionate about hacking existing technologies and making them my own, in order to teach them to others and help them succeed.
+Hi I'm Alain - I'll be joining a coding bootcamp in Berlin, starting Jan'2021, for 3 months.  I'm passionate about hacking existing technologies and making them my own, in order to teach them to others and help them succeed.
 
 Beginner level in Javascript and JQuery.
 
