@@ -1,16 +1,34 @@
-### Hi there 👋
+ 
 
-<!--
-**alaindiouly/alaindiouly** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Alain Diouly-Osso
 
-Here are some ideas to get you started:
+Hi I'm Alain - I'll be joining Codeworks' "Full Stack Software Engineering bootcamp" in Berlin, starting Jan'2021, for 3 months.  I'm passionate about hacking existing technologies and making them my own, in order to teach them to others and help them succeed.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Beginner level in Javascript and JQuery.
+
+## 
+
+## 🌱 Things I want to be good at:
+
+```
+→ GraphQl / Koa / Express and all things APIs
+→ Typescript / React / Redux
+→ Reading hard-to-swallow doc
+```
+
+## 
+
+## ⚡ Things I love:
+
+```
+→ Learning languages
+→ Shooting 3s' with a swish
+→ Making old, rusty roadbikes anew
+
+```
+
+## 
+
+## 💬 Connect/Contact
+
+[LinkedIn](https://www.linkedin.com/in/alaindiouly/)
