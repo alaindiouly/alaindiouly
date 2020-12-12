@@ -2,7 +2,7 @@
 
 # Alain Diouly-Osso
 
-Hi I'm Alain - I'll be joining a coding bootcamp in Berlin, starting Jan'2021, for 3 months.  I'm passionate about learning abstract concepts and making them my own, before passing practiced knowledge onto others in a simpler form, so that they can succeed.
+Hi I'm Alain - I'll be joining a coding bootcamp in Berlin, starting Jan'2021, for 3 months.  I enjoy breaking down abstract concepts into simpler forms, and sharing them with others, so that they can succeed.
 
 Beginner level in Javascript and JQuery.
 
@@ -21,9 +21,9 @@ Beginner level in Javascript and JQuery.
 ## ⚡ Things I love:
 
 ```
-→ Learning languages
-→ Shooting 3s' with a swish
-→ Making old, rusty roadbikes anew
+→ Learning languages 🌍
+→ Shooting 3s' with a swish 🏀
+→ Making old, rusty steel bikes anew 🔧
 
 ```
 
