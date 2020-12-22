@@ -11,8 +11,8 @@ Beginner level in Javascript and JQuery.
 ## 🌱 Things I want to be good at:
 
 ```
-→ GraphQL / Koa / Express and all things APIs
-→ Typescript / React / Redux
+→ All things APIs
+→ GraphQL/Typescript/React
 → Writing docs which are a joy to read
 ```
 
