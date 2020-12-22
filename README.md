@@ -13,7 +13,7 @@ Beginner level in Javascript and JQuery.
 ```
 → GraphQL / Koa / Express and all things APIs
 → Typescript / React / Redux
-→ Reading hard-to-swallow doc
+→ Writing docs which are a joy to read
 ```
 
 ## 
