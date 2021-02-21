@@ -4,7 +4,7 @@
 
 Hi I'm Alain - Currently attending a coding bootcamp in Berlin until early April 2021.  I enjoy breaking down abstract concepts into simple tiny bits, in order to help others succeed.
 
-Love ES6 and looking forward to learning Typescript. Beginner level React, Angular and Node.
+Love ES6, looking forward to learning Typescript. Beginner level React, Angular and Node ecosystem.
 
 ## 
 
@@ -13,7 +13,7 @@ Love ES6 and looking forward to learning Typescript. Beginner level React, Angul
 ```
 → All things APIs
 → Re-usable UI components
-→ Writing docs which for non-coders
+→ Writing docs for non-coders
 ```
 
 ## 
