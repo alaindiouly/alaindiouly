@@ -2,18 +2,18 @@
 
 # Alain Diouly-Osso
 
-Hi I'm Alain - I'll be joining a coding bootcamp in Berlin early 2021, for 3 months.  I enjoy breaking down abstract concepts into simple tiny bits, in order to help others succeed.
+Hi I'm Alain - Currently attending a coding bootcamp in Berlin until early April 2021.  I enjoy breaking down abstract concepts into simple tiny bits, in order to help others succeed.
 
-Beginner level in Javascript and JQuery.
+Love ES6 and looking forward to learning Typescript. Beginner level React, Angular and Node.
 
 ## 
 
 ## 🌱 Things I want to be good at:
 
 ```
-→ Testing 101
 → All things APIs
-→ Writing docs which are a joy to read
+→ Re-usable UI components
+→ Writing docs which for non-coders
 ```
 
 ## 
