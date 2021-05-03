@@ -2,9 +2,9 @@
 
 # Alain Diouly-Osso
 
-Hi I'm Alain - Currently attending a coding bootcamp in Berlin until early April 2021.  I enjoy breaking down abstract concepts into simple tiny bits, in order to help others succeed.
+Hi I'm Alain - I consider myself as a lifelong learner, I guess that's why I've moved into Tech.  I enjoy breaking down abstract concepts into simple tiny bits, in order to help others succeed.
 
-Love ES6, looking forward to learning Typescript. Beginner level React, Angular and Node ecosystem.
+Here are some of the tech stack I work with: Typescript, Redux, Node.js, Express, GraphQL, MongoDB, PostgreSQL, React and Nest. 
 
 ## 
 
