@@ -1,10 +1,10 @@
  
 
 # Alain Diouly-Osso
+Software Engineer - React.js, Redux, Node.js, Typescript, GraphQL, MongoDB, PostgreSQL, Nest.js
 
-Hi I'm Alain - I enjoy breaking down technical concepts into simple tiny bits, in order to bring multidisciplinary teams together.
-
-The tech stack I'm currently working with: Typescript, Redux, React, Node.js, Express, GraphQL, MongoDB, PostgreSQL and Nest. 
+🚀 I enjoy breaking down hard concepts into simple tiny bits, in order to bring multidisciplinary teams together
+🚨 Pros: I can explain what the hell the event loop is
 
 ## 
 
