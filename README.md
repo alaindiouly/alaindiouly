@@ -2,18 +2,18 @@
 
 # Alain Diouly-Osso
 
-Hi I'm Alain - I consider myself as a lifelong learner, I guess that's why I've moved into Tech.  I enjoy breaking down abstract concepts into simple tiny bits, in order to help others succeed.
+Hi I'm Alain - I enjoy breaking down technical concepts into simple tiny bits, in order to bring multidisciplinary teams together.
 
-Here are some of the tech stack I work with: Typescript, Redux, Node.js, Express, GraphQL, MongoDB, PostgreSQL, React and Nest. 
+The tech stack I'm currently working with: Typescript, Redux, React, Node.js, Express, GraphQL, MongoDB, PostgreSQL and Nest. 
 
 ## 
 
 ## 🌱 Things I want to be good at:
 
 ```
-→ All things APIs
-→ Re-usable UI components
-→ Writing docs for non-coders
+→ Writing REST APIs in Node, Python and Go environments
+→ Explaining code to non-coders
+→ Explaining code to non-coders
 ```
 
 ## 
