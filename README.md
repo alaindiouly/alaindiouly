@@ -13,7 +13,7 @@ Software Engineer - React.js, Redux, Node.js, Typescript, GraphQL, MongoDB, Post
 
 ```
 → Writing REST APIs in Node, Python and Go environments
-→ Explaining code to non-coders
+→ All things CI/CD, Docker and Kubernetes
 → Explaining code to non-coders
 ```
 
