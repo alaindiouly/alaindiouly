@@ -4,6 +4,7 @@
 Software Engineer - React.js, Redux, Node.js, Typescript, GraphQL, MongoDB, PostgreSQL, Nest.js
 
 🚀 I enjoy breaking down hard concepts into simple tiny bits, in order to bring multidisciplinary teams together
+
 🚨 Pros: I can explain what the hell the event loop is
 
 ## 
